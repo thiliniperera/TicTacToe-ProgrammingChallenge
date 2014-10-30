@@ -1,0 +1,148 @@
+2014-10-29 13:18:18  INFO (DBConnector.java:45) - New player Dinusha added
+2014-10-29 13:18:23  INFO (TicTacToeGame.java:128) - Sathya has won
+2014-10-29 13:18:23  INFO (TicTacToeGame.java:130) - Dinusha has lost
+2014-10-29 13:19:34 ERROR (DBConnector.java:48) - Sathya player exits
+2014-10-29 13:19:34  INFO (DBConnector.java:45) - New player Malmee added
+2014-10-29 13:19:43  INFO (TicTacToeGame.java:134) - Malmee has won
+2014-10-29 13:19:43  INFO (TicTacToeGame.java:136) - Sathya has lost
+2014-10-29 13:19:43  INFO (TicTacToeGame.java:260) - Sathya and Malmeehas tied
+2014-10-29 13:22:15  INFO (TicTacToeGame.java:134) - Computer has won
+2014-10-29 13:22:15  INFO (TicTacToeGame.java:136) - Thilini has lost
+2014-10-29 13:23:27  INFO (DBConnector.java:45) - New player Kushan added
+2014-10-29 13:23:27 ERROR (DBConnector.java:48) - Thara player exits
+2014-10-29 13:23:31  INFO (TicTacToeGame.java:128) - Kushan has won
+2014-10-29 13:23:31  INFO (TicTacToeGame.java:130) - Thara has lost
+2014-10-29 13:24:09 ERROR (DBConnector.java:48) - Malmee player exits
+2014-10-29 13:24:09  INFO (DBConnector.java:45) - New player Chamil added
+2014-10-29 13:24:21  INFO (TicTacToeGame.java:136) - Chamil has won
+2014-10-29 13:24:21  INFO (TicTacToeGame.java:138) - Malmee has lost
+2014-10-29 13:24:38  INFO (TicTacToeGame.java:136) - Computer has won
+2014-10-29 13:24:38  INFO (TicTacToeGame.java:138) - Thilini has lost
+2014-10-29 13:24:38  INFO (TicTacToeGame.java:262) - Thilini and Computerhas tied
+2014-10-29 13:25:58 ERROR (DBConnector.java:48) - Malmee player exits
+2014-10-29 13:25:58 ERROR (DBConnector.java:48) - Thilini player exits
+2014-10-29 13:26:06  INFO (TicTacToeGame.java:136) - Thilini has won
+2014-10-29 13:26:06  INFO (TicTacToeGame.java:138) - Malmee has lost
+2014-10-29 13:26:06  INFO (TicTacToeGame.java:262) - Malmee and Thilinihas tied
+2014-10-29 13:26:56  INFO (TicTacToeGame.java:136) - Computer has won
+2014-10-29 13:26:56  INFO (TicTacToeGame.java:138) - Thilini has lost
+2014-10-29 13:27:55 ERROR (DBConnector.java:48) - Thilini player exits
+2014-10-29 13:27:55 ERROR (DBConnector.java:48) - Riyafa player exits
+2014-10-29 13:27:55  INFO (TicTacToeGame.java:136) - Riyafa has won
+2014-10-29 13:27:55  INFO (TicTacToeGame.java:138) - Thilini has lost
+2014-10-29 13:28:09  INFO (TicTacToeGame.java:130) - Thilini has won
+2014-10-29 13:28:09  INFO (TicTacToeGame.java:132) - Riyafa has lost
+2014-10-29 13:28:25 ERROR (DBConnector.java:48) - Thilini player exits
+2014-10-29 13:28:25 ERROR (DBConnector.java:48) - Malmee player exits
+2014-10-29 13:28:25  INFO (TicTacToeGame.java:136) - Malmee has won
+2014-10-29 13:28:25  INFO (TicTacToeGame.java:138) - Thilini has lost
+2014-10-29 13:28:42  INFO (TicTacToeGame.java:262) - Thilini and Malmeehas tied
+2014-10-29 13:32:15 ERROR (DBConnector.java:48) - Amanda player exits
+2014-10-29 13:32:15 ERROR (DBConnector.java:48) - Chamil player exits
+2014-10-29 13:32:27  INFO (TicTacToeGame.java:136) - Chamil has won
+2014-10-29 13:32:27  INFO (TicTacToeGame.java:138) - Amanda has lost
+2014-10-29 13:32:27  INFO (TicTacToeGame.java:262) - Amanda and Chamil has tied
+2014-10-29 13:34:09 ERROR (DBConnector.java:48) - Amanda player exits
+2014-10-29 13:34:09 ERROR (DBConnector.java:48) - Chamil player exits
+2014-10-29 13:34:09  INFO (TicTacToeGame.java:136) - Chamil has won
+2014-10-29 13:34:09  INFO (TicTacToeGame.java:138) - Amanda has lost
+2014-10-29 13:34:14  INFO (TicTacToeGame.java:136) - Chamil has won
+2014-10-29 13:34:15  INFO (TicTacToeGame.java:138) - Amanda has lost
+2014-10-29 13:35:00 ERROR (DBConnector.java:31) - Database connection error
+2014-10-29 13:35:02 ERROR (DBConnector.java:31) - Database connection error
+2014-10-29 13:36:19 ERROR (DBConnector.java:31) - Database connection error
+2014-10-29 13:36:21 ERROR (DBConnector.java:31) - Database connection error
+2014-10-29 13:36:32 ERROR (DBConnector.java:51) - Connection failed.
+2014-10-29 13:36:32 ERROR (DBConnector.java:51) - Connection failed.
+2014-10-29 14:31:46 ERROR (DBConnector.java:31) - Database connection error
+2014-10-29 14:31:48 ERROR (DBConnector.java:31) - Database connection error
+2014-10-29 14:32:36  INFO (DBConnector.java:45) - New player P1 added
+2014-10-29 14:32:36  INFO (DBConnector.java:45) - New player P2 added
+2014-10-29 14:32:36  INFO (TicTacToeGame.java:136) - P2 has won
+2014-10-29 14:32:36  INFO (TicTacToeGame.java:138) - P1 has lost
+2014-10-29 14:32:50  INFO (TicTacToeGame.java:262) - P1 and P2 has tied
+2014-10-29 14:33:20 ERROR (DBConnector.java:48) - P1 player exits
+2014-10-29 14:33:20 ERROR (DBConnector.java:48) - p2 player exits
+2014-10-29 14:33:21  INFO (TicTacToeGame.java:136) - p2 has won
+2014-10-29 14:33:21  INFO (TicTacToeGame.java:138) - P1 has lost
+2014-10-29 14:33:28  INFO (TicTacToeGame.java:130) - P1 has won
+2014-10-29 14:33:29  INFO (TicTacToeGame.java:132) - p2 has lost
+2014-10-29 14:36:36 ERROR (DBConnector.java:48) - P1 player exits
+2014-10-29 14:36:36 ERROR (DBConnector.java:48) - P2 player exits
+2014-10-29 14:36:43  INFO (TicTacToeGame.java:197) - P1 has won
+2014-10-29 14:37:12 ERROR (DBConnector.java:48) - P1 player exits
+2014-10-29 14:37:12 ERROR (DBConnector.java:48) - P2 player exits
+2014-10-29 14:37:17  INFO (TicTacToeGame.java:229) - P2 has won
+2014-10-29 14:38:29 ERROR (DBConnector.java:48) - P1 player exits
+2014-10-29 14:38:29 ERROR (DBConnector.java:48) - P2 player exits
+2014-10-29 14:38:39  INFO (TicTacToeGame.java:230) - P2 has won
+2014-10-29 14:38:39  INFO (TicTacToeGame.java:231) - P1 has won
+2014-10-29 14:39:17 ERROR (DBConnector.java:48) - P1 player exits
+2014-10-29 14:39:17 ERROR (DBConnector.java:48) - P2 player exits
+2014-10-29 14:39:20  INFO (TicTacToeGame.java:197) - P1 has won
+2014-10-29 14:39:20  INFO (TicTacToeGame.java:198) - P2 has lost
+2014-10-29 14:41:11 ERROR (DBConnector.java:48) - P1 player exits
+2014-10-29 14:41:11 ERROR (DBConnector.java:48) - P2 player exits
+2014-10-29 14:41:14  INFO (TicTacToeGame.java:197) - P1 has won
+2014-10-29 14:41:14  INFO (TicTacToeGame.java:199) - P2 has lost
+2014-10-29 14:42:32  INFO (DBConnector.java:45) - New player P1 added
+2014-10-29 14:42:32  INFO (DBConnector.java:45) - New player P2 added
+2014-10-29 14:42:35  INFO (TicTacToeGame.java:197) - P1 has won
+2014-10-29 14:42:36  INFO (TicTacToeGame.java:199) - P2 has lost
+2014-10-29 14:43:00 ERROR (DBConnector.java:48) - P1 player exits
+2014-10-29 14:43:00 ERROR (DBConnector.java:48) - P2 player exits
+2014-10-29 14:43:10  INFO (TicTacToeGame.java:232) - P2 has won
+2014-10-29 14:43:10  INFO (TicTacToeGame.java:234) - P1 has lost
+2014-10-29 14:43:40 ERROR (DBConnector.java:48) - P1 player exits
+2014-10-29 14:43:40 ERROR (DBConnector.java:48) - P2 player exits
+2014-10-29 14:43:49  INFO (TicTacToeGame.java:232) - P2 has won
+2014-10-29 14:43:49  INFO (TicTacToeGame.java:234) - P1 has lost
+2014-10-29 14:43:59 ERROR (DBConnector.java:48) - P1 player exits
+2014-10-29 14:43:59 ERROR (DBConnector.java:48) - P2 player exits
+2014-10-29 14:44:10  INFO (TicTacToeGame.java:197) - P1 has won
+2014-10-29 14:44:10  INFO (TicTacToeGame.java:199) - P2 has lost
+2014-10-29 14:44:21 ERROR (DBConnector.java:48) - P1 player exits
+2014-10-29 14:44:21 ERROR (DBConnector.java:48) - P2 player exits
+2014-10-29 14:44:35  INFO (TicTacToeGame.java:232) - P2 has won
+2014-10-29 14:44:36  INFO (TicTacToeGame.java:234) - P1 has lost
+2014-10-29 14:44:45 ERROR (DBConnector.java:48) - P1 player exits
+2014-10-29 14:44:45 ERROR (DBConnector.java:48) - P2 player exits
+2014-10-29 14:44:59  INFO (TicTacToeGame.java:257) - P1 and P2 has tied
+2014-10-29 14:46:23 ERROR (DBConnector.java:31) - Database connection error
+2014-10-29 14:46:25 ERROR (DBConnector.java:31) - Database connection error
+2014-10-29 14:46:35 ERROR (DBConnector.java:51) - Connection failed.
+2014-10-29 14:46:35 ERROR (DBConnector.java:51) - Connection failed.
+2014-10-29 14:46:40  INFO (TicTacToeGame.java:197) - P1 has won
+2014-10-29 14:49:55 ERROR (DBConnector.java:31) - Database connection error
+2014-10-29 14:49:55 ERROR (DBConnector.java:128) - Error reading from db
+2014-10-29 14:49:55 ERROR (DBConnector.java:147) - Error reading from db
+2014-10-29 14:50:01 ERROR (DBConnector.java:31) - Database connection error
+2014-10-29 14:50:01 ERROR (DBConnector.java:128) - Error reading from db
+2014-10-29 14:50:01 ERROR (DBConnector.java:147) - Error reading from db
+2014-10-29 14:50:06 ERROR (DBConnector.java:31) - Database connection error
+2014-10-29 14:50:08 ERROR (DBConnector.java:31) - Database connection error
+2014-10-29 14:50:51 ERROR (DBConnector.java:31) - Database connection error
+2014-10-29 14:50:51 ERROR (DBConnector.java:128) - Error reading from db
+2014-10-29 14:50:51 ERROR (DBConnector.java:147) - Error reading from db
+2014-10-29 14:51:14 ERROR (DBConnector.java:31) - Database connection error
+2014-10-29 14:51:16 ERROR (DBConnector.java:129) - Error reading from db
+2014-10-29 14:51:16 ERROR (DBConnector.java:148) - Error reading from db
+2014-10-29 14:51:21 ERROR (DBConnector.java:31) - Database connection error
+2014-10-29 14:51:23 ERROR (DBConnector.java:31) - Database connection error
+2014-10-29 14:51:33 ERROR (DBConnector.java:51) - Connection failed.
+2014-10-29 14:51:33 ERROR (DBConnector.java:51) - Connection failed.
+2014-10-29 14:51:37  INFO (TicTacToeGame.java:197) - P1 has won
+2014-10-29 14:51:37 ERROR (DBConnector.java:70) - Error updating
+2014-10-29 14:51:37  INFO (TicTacToeGame.java:199) - P2 has lost
+2014-10-29 14:51:37 ERROR (DBConnector.java:88) - Error updating
+2014-10-29 14:52:44 ERROR (DBConnector.java:31) - Database connection error
+2014-10-29 14:52:46 ERROR (DBConnector.java:31) - Database connection error
+2014-10-29 14:52:54 ERROR (DBConnector.java:51) - Connection failed.
+2014-10-29 14:52:54 ERROR (DBConnector.java:51) - Connection failed.
+2014-10-29 14:52:57  INFO (TicTacToeGame.java:197) - P1 has won
+2014-10-29 14:52:59 ERROR (DBConnector.java:71) - Error updating
+2014-10-29 14:52:59  INFO (TicTacToeGame.java:199) - P2 has lost
+2014-10-29 14:52:59 ERROR (DBConnector.java:89) - Error updating
+2014-10-29 14:53:11 ERROR (DBConnector.java:31) - Database connection error
+2014-10-29 14:53:14 ERROR (DBConnector.java:131) - Error reading from db
+2014-10-29 14:53:14 ERROR (DBConnector.java:150) - Error reading from db
