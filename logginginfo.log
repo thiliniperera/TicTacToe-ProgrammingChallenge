@@ -146,3 +146,5 @@
 2014-10-29 14:53:11 ERROR (DBConnector.java:31) - Database connection error
 2014-10-29 14:53:14 ERROR (DBConnector.java:131) - Error reading from db
 2014-10-29 14:53:14 ERROR (DBConnector.java:150) - Error reading from db
+2014-10-30 22:07:28 ERROR (DBConnector.java:31) - Database connection error
+2014-10-30 22:07:29 ERROR (DBConnector.java:31) - Database connection error

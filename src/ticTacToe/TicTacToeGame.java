@@ -9,6 +9,7 @@ import java.awt.Toolkit;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.Random;
+import javax.swing.ImageIcon;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
@@ -105,9 +106,10 @@ public class TicTacToeGame extends JFrame{
         setSize(500,500);
         setDefaultCloseOperation(JFrame.HIDE_ON_CLOSE);
         setLocationRelativeTo(null);
-
+        ImageIcon img = new ImageIcon(GameLauncher.class.getResource("tictactoe.jpg"));
         // don't allow user to resize the game window
         setVisible( true );
+        setIconImage(img.getImage());
 
         resetGame();
     }

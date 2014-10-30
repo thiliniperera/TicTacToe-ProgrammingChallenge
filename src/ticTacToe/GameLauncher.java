@@ -8,9 +8,7 @@ package ticTacToe;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
-import java.awt.Dimension;
 import java.awt.GridLayout;
-import java.awt.Toolkit;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.ImageIcon;
@@ -47,11 +45,11 @@ public class GameLauncher extends JFrame{
         imagepanel = new JPanel();
         imagepanel.setBackground(new Color(3,2,155));
         
-        ImageIcon img;
-        img = new ImageIcon("tictactoe.jpg");
+        ImageIcon img = new ImageIcon(GameLauncher.class.getResource("tictactoe.jpg"));
         
         JLabel label = new JLabel(); 
         label.setIcon(img); 
+        setIconImage(img.getImage());
         
         imagepanel.add(label);
         
@@ -68,14 +66,14 @@ public class GameLauncher extends JFrame{
         
         newGame = new JButton("New Game");
         newGame.setBackground(new Color(3,2,155));
-        ImageIcon start = new ImageIcon("start.png");
+        ImageIcon start = new ImageIcon(GameLauncher.class.getResource("start.png"));
         newGame.setIcon(start);
         newGame.setForeground(Color.yellow);
         newGame.addActionListener(evt);
         
         
         exit = new JButton("Exit");
-        ImageIcon exiti= new ImageIcon("exit.jpg");
+        ImageIcon exiti = new ImageIcon(GameLauncher.class.getResource("exit.jpg"));
         exit.setIcon(exiti);
         exit.setBackground(new Color(3,2,155));
         exit.setForeground(Color.yellow);
@@ -83,7 +81,7 @@ public class GameLauncher extends JFrame{
         
                 
         stat = new JButton("Statistics");
-        ImageIcon statistics = new ImageIcon("statistics.png");
+        ImageIcon statistics = new ImageIcon(GameLauncher.class.getResource("statistics.png"));
         stat.setIcon(statistics);
         stat.setBackground(new Color(3,2,155));
          stat.setForeground(Color.yellow);
