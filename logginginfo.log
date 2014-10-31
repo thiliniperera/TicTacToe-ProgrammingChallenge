@@ -148,3 +148,57 @@
 2014-10-29 14:53:14 ERROR (DBConnector.java:150) - Error reading from db
 2014-10-30 22:07:28 ERROR (DBConnector.java:31) - Database connection error
 2014-10-30 22:07:29 ERROR (DBConnector.java:31) - Database connection error
+2014-10-30 22:16:31 ERROR (DBConnector.java:31) - Database connection error
+2014-10-30 22:16:31 ERROR (DBConnector.java:31) - Database connection error
+2014-10-31 07:45:48 ERROR (DBConnector.java:31) - Database connection error
+2014-10-31 07:45:50 ERROR (DBConnector.java:31) - Database connection error
+2014-10-31 07:46:03 ERROR (DBConnector.java:112) - Error updating
+2014-10-31 07:46:03  INFO (TicTacToeGame.java:259) - A.H.F. Riyafa and Computer has tied
+2014-10-31 07:55:39 ERROR (DBConnector.java:31) - Database connection error
+2014-10-31 07:55:41 ERROR (DBConnector.java:31) - Database connection error
+2014-10-31 07:57:48 ERROR (DBConnector.java:31) - Database connection error
+2014-10-31 07:57:50 ERROR (DBConnector.java:31) - Database connection error
+2014-10-31 07:58:35 ERROR (DBConnector.java:31) - Database connection error
+2014-10-31 07:58:37 ERROR (DBConnector.java:31) - Database connection error
+2014-10-31 08:06:39 ERROR (DBConnector.java:31) - Database connection error
+2014-10-31 08:06:41 ERROR (DBConnector.java:31) - Database connection error
+2014-10-31 08:07:43 ERROR (DBConnector.java:31) - Database connection error
+2014-10-31 08:07:46 ERROR (DBConnector.java:31) - Database connection error
+2014-10-31 08:07:51 ERROR (DBConnector.java:51) - Connection failed.
+2014-10-31 08:07:51 ERROR (DBConnector.java:51) - Connection failed.
+2014-10-31 08:07:55  INFO (TicTacToeGame.java:209) - cc has won
+2014-10-31 08:07:57 ERROR (DBConnector.java:71) - Error updating
+2014-10-31 08:07:57  INFO (TicTacToeGame.java:211) - cc has lost
+2014-10-31 08:07:57 ERROR (DBConnector.java:89) - Error updating
+2014-10-31 08:08:06 ERROR (DBConnector.java:51) - Connection failed.
+2014-10-31 08:08:06 ERROR (DBConnector.java:51) - Connection failed.
+2014-10-31 08:08:09  INFO (TicTacToeGame.java:209) - cc has won
+2014-10-31 08:08:10 ERROR (DBConnector.java:71) - Error updating
+2014-10-31 08:08:10  INFO (TicTacToeGame.java:211) - cc has lost
+2014-10-31 08:08:10 ERROR (DBConnector.java:89) - Error updating
+2014-10-31 08:09:50 ERROR (DBConnector.java:31) - Database connection error
+2014-10-31 08:09:52 ERROR (DBConnector.java:31) - Database connection error
+2014-10-31 08:10:00 ERROR (DBConnector.java:112) - Error updating
+2014-10-31 08:10:00  INFO (TicTacToeGame.java:259) - A.H.F. Riyafa and Computer has tied
+2014-10-31 08:11:36 ERROR (DBConnector.java:31) - Database connection error
+2014-10-31 08:11:38 ERROR (DBConnector.java:31) - Database connection error
+2014-10-31 08:11:46 ERROR (DBConnector.java:112) - Error updating
+2014-10-31 08:11:46  INFO (TicTacToeGame.java:259) - A.H.F. Riyafa and Computer has tied
+2014-10-31 08:19:13 ERROR (DBConnector.java:31) - Database connection error
+2014-10-31 08:19:15 ERROR (DBConnector.java:31) - Database connection error
+2014-10-31 08:19:20 ERROR (DBConnector.java:51) - Connection failed.
+2014-10-31 08:19:20 ERROR (DBConnector.java:51) - Connection failed.
+2014-10-31 08:19:23  INFO (TicTacToeGame.java:199) - cc has won
+2014-10-31 08:19:24 ERROR (DBConnector.java:71) - Error updating
+2014-10-31 08:19:24  INFO (TicTacToeGame.java:201) - re has lost
+2014-10-31 08:19:24 ERROR (DBConnector.java:89) - Error updating
+2014-10-31 08:19:29 ERROR (DBConnector.java:51) - Connection failed.
+2014-10-31 08:19:29 ERROR (DBConnector.java:51) - Connection failed.
+2014-10-31 08:20:33 ERROR (DBConnector.java:31) - Database connection error
+2014-10-31 08:20:35 ERROR (DBConnector.java:31) - Database connection error
+2014-10-31 08:20:42 ERROR (DBConnector.java:51) - Connection failed.
+2014-10-31 08:20:42 ERROR (DBConnector.java:51) - Connection failed.
+2014-10-31 08:20:44  INFO (TicTacToeGame.java:199) - ii has won
+2014-10-31 08:20:45 ERROR (DBConnector.java:71) - Error updating
+2014-10-31 08:20:45  INFO (TicTacToeGame.java:201) - [[ has lost
+2014-10-31 08:20:45 ERROR (DBConnector.java:89) - Error updating
