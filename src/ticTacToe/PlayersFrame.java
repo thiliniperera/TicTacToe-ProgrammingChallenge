@@ -1,6 +1,7 @@
 package ticTacToe;
 
 import java.awt.BorderLayout;
+import java.awt.CardLayout;
 import java.awt.Dimension;
 import java.awt.GridLayout;
 import javax.swing.JButton;
@@ -16,39 +17,38 @@ import javax.swing.JTextField;
  */
 public class PlayersFrame extends JDialog{
     
-     static org.apache.log4j.Logger log= org.apache.log4j.Logger.getLogger(PlayersFrame.class);
-    
     private DBConnector db;
     private JButton btnUser;
     private JButton btnComp;
     private JPanel buttonPanel;
-    private JPanel userPanel;
+    private JPanel userPanel,basePanel;
     private String player1="Player 1",player2="Player 2";
+    private CardLayout layout;
     public PlayersFrame(JFrame frame) {
         super(frame);
-        db = new DBConnector();
         setLocationRelativeTo(frame);
+        initComponents();
     }
-    
-    public final void createAndShowGUI(){
-        //set the title of the JDialog
+    public final void initComponents(){
+        db = new DBConnector();        
+        this.layout=new CardLayout();
+        basePanel=new JPanel();
+         //set the title of the JDialog
         setTitle("New Game");
-        
         //panel to carry the buttons
         buttonPanel=new JPanel(new GridLayout(0,1));
-        add(buttonPanel);
-        
-        //panel to add players
+        layout.addLayoutComponent(buttonPanel, "buttonpanel");
+        basePanel.add(buttonPanel);
+         //panel to add players
         userPanel=new JPanel();
+        layout.addLayoutComponent(userPanel, "userPanel");       
         populateUserPanel(userPanel);
-        
+        basePanel.add(userPanel);
+        basePanel.setLayout(layout);
         //creates the button for playing with another user
-        btnUser=new JButton("With another user");
-        
+        btnUser=new JButton("With another user");       
         btnUser.addActionListener(evt->{
-            buttonPanel.removeAll();
-            add(userPanel);
-            this.revalidate();
+            layout.show(basePanel, "userPanel");
         });
         buttonPanel.add(btnUser);
         //creates the button for playing with computer
@@ -56,14 +56,18 @@ public class PlayersFrame extends JDialog{
         btnComp.addActionListener(evt->{
             player1=System.getProperty("user.name");
             player2="Computer";
-            dispose();
+            setVisible(false);
         }); 
         buttonPanel.add(btnComp);
+        add(basePanel);
         setSize(new Dimension(300,150));
         setResizable(false);
         setModal(true);
         setDefaultCloseOperation(JDialog.DO_NOTHING_ON_CLOSE);
-        setLocationRelativeTo(null);
+    }
+    
+    public final void createAndShowGUI(){        
+        layout.show(basePanel, "buttonpanel");        
         setVisible(true);
     }
 
@@ -94,25 +98,20 @@ public class PlayersFrame extends JDialog{
             if (text1.getText()!=null) {
                 player1=text1.getText();
                 db.addNewPlayer(player1);
-                
             }else{
                 player1="Player 1";
                 db.addNewPlayer(player1);
-                
             }
              
             
              if (text1.getText()!=null) {
                 player2=text2.getText();
                 db.addNewPlayer(player2);
-                
             }else{
                 player2="Player 2";
                 db.addNewPlayer(player2);
-                
-            }
-              
-            dispose();
+            }           
+            setVisible(false);
         });        
         panel3.add(btnOk);
         
